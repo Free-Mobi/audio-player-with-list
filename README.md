@@ -4,9 +4,9 @@ A lightweight web application that lets you play a curated list of music tracks 
 
 Experience the simplicity and intuitiveness of this music player designed specifically for websites. Just clone the repository, open the index.html file in your web browser, and start enjoying your music!
 
-## Preview
-
-![Music List Player Preview](img/audio-player-with-track-list.jpg)
+<p align="center">
+  <img src="img/audio-player-with-track-list.jpg" alt="Audio Player with Track List for Site"  style="display:block; margin:auto;">
+</p>
 
 ## Features:
 
