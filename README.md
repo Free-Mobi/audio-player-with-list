@@ -19,12 +19,6 @@ Experience the simplicity and intuitiveness of this music player designed specif
 1. Clone the repository to your local machine.
 2. Open the `index.html` file in a web browser.
 
-## Songs
-
-- Song 1
-- Song 2
-- Song 3
-  <!-- Add more songs as needed -->
 
 
 
